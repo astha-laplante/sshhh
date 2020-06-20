@@ -19,7 +19,7 @@ GEM
     pry (0.13.1)
       coderay (~> 1.1)
       method_source (~> 1.0)
-    rake (10.5.0)
+    rake (13.0.1)
     ruby-progressbar (1.10.1)
 
 PLATFORMS
@@ -30,7 +30,7 @@ DEPENDENCIES
   minitest (~> 5.0)
   minitest-reporters
   pry
-  rake (~> 10.0)
+  rake (~> 13.0)
   sshhh!
 
 BUNDLED WITH
